@@ -1,0 +1,1 @@
+The UW Schedule Builder is a tool which enables students to map out the entirety of their time on campus each week. After inputting which classes a user is taking, the website will render a dynamic scheduler (much like the one on myUW), and allows the user to add other 'blocks' including eating, transportation, and studying.
